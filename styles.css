@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body {
+    background-color: azure;
+    font-weight: bold;
+}
+
+header {
+    text-align: center;
+    background-color: aqua;
+}
+
+b {
+    margin: 20px;
+    padding: 10px;
+    background-color: yellow;
+    width: 30%;
+}
